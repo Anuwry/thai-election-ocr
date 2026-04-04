@@ -2,6 +2,7 @@ transformers
 torch 
 torchvision 
 torchaudio
+tqdm
 easyocr 
 opencv-python 
 pandas 
