@@ -1,0 +1,11 @@
+transformers 
+torch 
+torchvision 
+torchaudio
+easyocr 
+opencv-python 
+pandas 
+numpy
+huggingface_hub 
+ipywidgets 
+rapidfuzz
