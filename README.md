@@ -31,4 +31,4 @@ This repository contains an Optical Character Recognition (OCR) pipeline designe
 ## Installation and Usage
 1. Clone the repository: 
    ```bash
-   git clone [https://github.com/Anuwry/thai-election-ocr.git](https://github.com/Anuwry/thai-election-ocr.git)
+   git clone [[https://github.com/Anuwry/thai-election-ocr.git](https://github.com/Anuwry/thai-election-ocr.git)](https://github.com/Anuwry/thai-election-ocr.git)
