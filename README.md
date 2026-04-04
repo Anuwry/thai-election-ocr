@@ -1,4 +1,4 @@
-# 🗳️ Super AI Engineer Season 6: Robust OCR Pipeline for Voting Results
+# Super AI Engineer Season 6: Robust OCR Pipeline for Voting Results
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-GPU_Enabled-EE4C2C)
