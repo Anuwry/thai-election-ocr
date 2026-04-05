@@ -6,7 +6,7 @@
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-Deep_Learning-brightgreen)
 
 ## Executive Summary
-This repository contains a highly robust, end-to-end Optical Character Recognition (OCR) pipeline engineered specifically for extracting voting results from complex, noisy, and potentially skewed document images. Developed for the **Super AI Engineer Season 6** competition, (The "Automated Masterpiece") integrates computer vision heuristics, deep learning-based text extraction, and advanced fuzzy matching logic to achieve near-perfect transcription accuracy even on heavily degraded input data
+This repository contains a highly robust, end-to-end Optical Character Recognition (OCR) pipeline engineered specifically for extracting voting results from complex, noisy, and potentially skewed document images. Developed for the **Super AI Engineer Season 6** competition, Integrates computer vision heuristics, deep learning-based text extraction, and advanced fuzzy matching logic to achieve near-perfect transcription accuracy even on heavily degraded input data
 
 ## System Architecture & Pipeline Flow
 
@@ -20,7 +20,6 @@ Scanned or photographed documents frequently suffer from rotational deviations. 
 4. **Affine Transformation:** Rotates the image via `cv2.warpAffine` to perfectly align the document matrix
 
 > **Visualizing the Deskew Process:**
-> *(Replace the path below with your actual image showing the Before/After of the deskewing process)*
 > 
 > <img width="1432" height="708" alt="Untitled" src="https://github.com/user-attachments/assets/810bda67-bd17-486c-b943-614b6bca2106" />
 > *Figure 1: Comparison of the raw input image (left) and the geometrically corrected image (right) after Hough Transform processing*
